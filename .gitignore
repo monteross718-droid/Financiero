@@ -1,0 +1,11 @@
+# Eclipse / Java: generated files
+/bin/
+/target/
+/out/
+*.class
+/.metadata/
+/.settings/
+/.idea/
+*.log
+.DS_Store
+Thumbs.db
